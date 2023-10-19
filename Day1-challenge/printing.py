@@ -15,3 +15,16 @@ print("New lines can be created with a backslash and n.")
 # Write your code below this line 👇
 name = len(input("What's your name? "))
 print(name)
+
+#Variable
+# There are two variables, a and b from input
+a = input("Enter a number ")
+b = input("Enter a number ")
+#Created a third variable
+c = a
+
+a = b
+b = c
+
+print("a: " + a)
+print("b: " + b)
