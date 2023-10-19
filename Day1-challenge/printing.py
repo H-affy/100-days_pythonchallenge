@@ -1,5 +1,5 @@
 #Print function
-print("Day 1 - Python Print Function")
+"""print("Day 1 - Python Print Function")
 print("The function is declared like this:")
 print("print('what to print')")
 
@@ -28,3 +28,6 @@ b = c
 
 print("a: " + a)
 print("b: " + b)
+"""
+num_hours = "5"
+print("There are " + num_hours + " hours")
