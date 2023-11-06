@@ -8,7 +8,7 @@ print(two_digit_number)
 #Create a BMI calculator using type conversion and mathematical operations
 height = input("Enter your height in meters:\n")
 weight = input("Enter your weight in kilograms:\n")
-#convert the height and weight using type conversion
+#convert the height and weight using the float and int type conversion.
 Height = float(height)
 Weight = int(weight)
 #using mathematical operation to calculate the bmi
