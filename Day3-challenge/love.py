@@ -31,4 +31,8 @@ print(lovescores)
 lovescore = int(lovescores)
 
 if lovescore < 10 or lovescore > 90:
-    print(f"Your score is {lovescore}")
+   print(f"Your score is {lovescore}, you go together like coke and mentos.")
+elif lovescore >= 40 and lovescore <= 50:
+  print(f"Your score is {lovescore}, you are alright together.")
+else:
+  print(f"Your score is {lovescore}")
